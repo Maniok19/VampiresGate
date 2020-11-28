@@ -125,10 +125,12 @@ public class Node : MonoBehaviour {
 
         if (buildManager.hasMoney)
         {
+            rend.enabled = true;
             rend.material.color = hoverColor;
         }
         else
         {
+            rend.enabled = true;
             rend.material.color = notEnoughMoneyColor;
         }
         
@@ -136,6 +138,7 @@ public class Node : MonoBehaviour {
 
     private void OnMouseExit()
     {
+        rend.enabled = false;
         rend.material.color = startColor;
     }
 

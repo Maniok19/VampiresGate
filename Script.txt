@@ -1,0 +1,36 @@
+Dans le village de Villafonte, le soleil brille et les oiseaux chantent.
+Un train arrive a la gare. 
+A l'interieur Athena regarde par la fenetre.
+dans ses écouteurs on entend une musique melancolique
+La jeune athéna descend du train et se rend dans sa nouvelle maison, un vieil homme l'attend.
+-Bonjour Madame ! bienvenue chez vous !
+-Bonjours Monsieur .. ?
+-Je m'appele Alfred, votre voisin, c'est moi qui suis chargé de vous donner les clés et de vous montrer les lieux.
+Il a les cheveux gris, de profondes cernes, un teint pale
+*S'approche et donne les clés
+-Merci
+-Tres bien je vous montre les lieux
+
+//Tutoriel//
+Musique : Schubert's Fantasy in F minor for Piano Four Hands, D940
+*Alfred s'avance et dit :
+-Cette maison a été construite il y a 200 ans par le Duc de Fontenoire pour son gardien Jasper.
+* Dézoom camera centré sur chateau
+-Le Duc vivait dans ce chateau la bas
+ * Montre le chateau (spawnpoint)
+-A cette époque le village n'existait pas encore et le Duc vivait seul avec ses gens.
+*Alfred marche vers une grande porte, la pousse et entre dans le jardin
+-Voila donc la Coure du Chateau, vous avez acces au jardin a la maisonette et a ce cabanon mais n'allez pas dans le chateau il est tres vieux et risque de s'effondrer a tout moment !
+-De toute façon il est solidement fermé, tres bien je vous laisse vous installer, bonne nuit Madame.
+*Athena entre seule chez elle
+sur la table elle trouve deux tourelles avec une note de mode d'emploi (on voit la portée 
+Athena s'interoge et va dormir
+
+//Scene 2//
+
+la nuit tombe et un cri reveille Athena. L'orage fais rage
+Athena regarde par sa fenetre et grace a la lueur d'un eclair elle voit Alfred agenouillée sous la pluie
+Deuxieme flash Un homme s'approche de lui lentement, il boite.
+Athena reste figée.
+Troisieme Flash Alfred se fait devorer.
+Athena cours jusqu'au jardin avec les tourelles

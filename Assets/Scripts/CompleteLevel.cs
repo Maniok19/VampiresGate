@@ -8,7 +8,7 @@ public class CompleteLevel : MonoBehaviour{
     public string menuSceneName = "MainMenu";
 
     public string nextLevel = "Level02";
-    public int levelToUnlock = 2;
+    public int levelToUnlock = 3;
 
     public void OnEnable()
     {
